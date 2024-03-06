@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b8f"
+  },
+  "subject": "Mathematics",
+  "location": "Manchester",
+  "price": 80,
+  "spaces": 5,
+  "icon": "fa-calculator",
+  "lesson_id": 1
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b90"
+  },
+  "subject": "English",
+  "location": "London",
+  "price": 100,
+  "spaces": 5,
+  "icon": "fa-book",
+  "lesson_id": 2
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b91"
+  },
+  "subject": "Drama",
+  "location": "London",
+  "price": 90,
+  "spaces": 5,
+  "lesson_id": 3,
+  "icon": "fa-theater-masks"
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b92"
+  },
+  "subject": "Computer Science",
+  "location": "Bristol",
+  "price": 70,
+  "spaces": 5,
+  "icon": "fa-flask",
+  "lesson_id": 4
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b93"
+  },
+  "subject": "English",
+  "location": "Birmingham",
+  "price": 120,
+  "spaces": 5,
+  "icon": "fa-book",
+  "lesson_id": 5
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b94"
+  },
+  "subject": "Music",
+  "location": "Nottingham",
+  "price": 110,
+  "spaces": 5,
+  "icon": "fa-music",
+  "lesson_id": 6
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b95"
+  },
+  "subject": "History",
+  "location": "Liverpool",
+  "price": 90,
+  "spaces": 4,
+  "icon": "fa-history",
+  "lesson_id": 7
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b96"
+  },
+  "subject": "Chess",
+  "location": "Leeds",
+  "price": 90,
+  "spaces": 4,
+  "icon": "fa-chess",
+  "lesson_id": 8
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b97"
+  },
+  "subject": "English",
+  "location": "Coventry",
+  "price": 100,
+  "spaces": 5,
+  "icon": "fa-book",
+  "lesson_id": 9
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b98"
+  },
+  "subject": "History",
+  "location": "Liverpool",
+  "price": 90,
+  "spaces": 4,
+  "icon": "fa-history",
+  "lesson_id": 10
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b99"
+  },
+  "subject": "Drama",
+  "location": "London",
+  "price": 90,
+  "spaces": 5,
+  "icon": "fa-theater-masks",
+  "lesson_id": 11
+},
+{
+  "_id": {
+    "$oid": "65b52057b45bff7fc3ae4b9a"
+  },
+  "subject": "English",
+  "location": "London",
+  "price": 100,
+  "spaces": 4,
+  "icon": "fa-book",
+  "lesson_id": 12
+}]
